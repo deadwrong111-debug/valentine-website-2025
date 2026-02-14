@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Jasminn… do you remember the first time we met? 💭❤️"                                    // First interaction
+            text: "Jasminn… do you remember the first time we met? 💭❤️",                                             // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I do, why? ❤️"           // Secret hover message
@@ -42,7 +42,6 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        insane: "ARE YOU TRYING TO BREAK THE LOVE METER?! 😳💥💘",   // Shows when they go past 7000%
         extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
